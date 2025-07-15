@@ -17,8 +17,8 @@ const db = mysql.createConnection({
     host: '3wg995.h.filess.io',
     port: 3307, 
     user: 'C237database_capturedme',
-    password: 'database user shown on database info',
-    database: 'database shown database info'
+    password: 'd2b200c298b64efee7df58e03765a2cba3bfae48',
+    database: 'C237database_capturedme'
 });
 
 db.connect((err) => {
